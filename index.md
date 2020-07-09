@@ -1,2 +1,2 @@
-### 个人信息
-#### 姓名
+### About Me
+#### I'm Suncheng Xiang, a third year PhD student at Shanghai Jiao Tong University
